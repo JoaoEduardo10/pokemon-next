@@ -3,9 +3,12 @@
 # Técnologias utilizadas
 
 - TypeScript
+- Sass
 - Next.js
 - API de Pokemon
+- jest
+
 
 # Sobre o Projeto
 
-- Em desenvolvimento...
+- Projeto terminado...
