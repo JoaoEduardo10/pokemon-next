@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> should render a Card 1`] = `
+<div>
+  <li
+    class="card"
+  >
+    <img
+      alt="picachu"
+      data-nimg="1"
+      decoding="async"
+      height="180"
+      loading="lazy"
+      src="/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FPokeAPI%2Fsprites%2Fmaster%2Fsprites%2Fpokemon%2F1.png&w=384&q=75"
+      srcset="/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FPokeAPI%2Fsprites%2Fmaster%2Fsprites%2Fpokemon%2F1.png&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FPokeAPI%2Fsprites%2Fmaster%2Fsprites%2Fpokemon%2F1.png&w=384&q=75 2x"
+      style="color: transparent;"
+      width="180"
+    />
+    <p
+      aria-label="numero do pokemon"
+      class="id"
+    >
+      #
+      1
+    </p>
+    <h3
+      class="title"
+    >
+      picachu
+    </h3>
+    <a
+      class="btn"
+      href="/pokemon/1"
+    >
+      Detalhes
+    </a>
+  </li>
+</div>
+`;

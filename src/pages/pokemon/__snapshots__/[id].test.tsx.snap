@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PokemonId /> should render a pokemon 1`] = `
+<div>
+  <section
+    class="pokemon_conteiner"
+  >
+    <h1
+      class="pokemon_title"
+    >
+      picachu
+    </h1>
+    <img
+      alt="picachu"
+      data-nimg="1"
+      decoding="async"
+      height="180"
+      loading="lazy"
+      src="/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FPokeAPI%2Fsprites%2Fmaster%2Fsprites%2Fpokemon%2F1.png&w=384&q=75"
+      srcset="/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FPokeAPI%2Fsprites%2Fmaster%2Fsprites%2Fpokemon%2F1.png&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FPokeAPI%2Fsprites%2Fmaster%2Fsprites%2Fpokemon%2F1.png&w=384&q=75 2x"
+      style="color: transparent;"
+      width="180"
+    />
+    <div>
+      <h3>
+        Numero:
+      </h3>
+      <p>
+        #
+        1
+      </p>
+    </div>
+    <div>
+      <h3>
+        Tipos:
+      </h3>
+      <ul
+        class="types_conteiner"
+      >
+        <li
+          class="type type_Fire"
+        >
+          Fire
+        </li>
+      </ul>
+    </div>
+    <div
+      class="data_conteiner"
+    >
+      <div
+        class="data_height"
+      >
+        <h4>
+          Altura:
+        </h4>
+        <p>
+          1000.0
+           cm
+        </p>
+      </div>
+      <div
+        class="data_weight"
+      >
+        <h4>
+          Peso:
+        </h4>
+        <p>
+          10.0
+           kg
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+`;

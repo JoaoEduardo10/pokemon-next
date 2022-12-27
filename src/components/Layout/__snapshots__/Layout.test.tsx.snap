@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Layout /> should a render conteiner Layout 1`] = `
+<div>
+  <nav
+    class="navBar"
+  >
+    <div
+      class="logo"
+    >
+      <img
+        alt="pokeball"
+        data-nimg="1"
+        decoding="async"
+        height="30"
+        loading="lazy"
+        src="/_next/image?url=%2Fimages%2Fpokeball.png&w=64&q=75"
+        srcset="/_next/image?url=%2Fimages%2Fpokeball.png&w=32&q=75 1x, /_next/image?url=%2Fimages%2Fpokeball.png&w=64&q=75 2x"
+        style="color: transparent;"
+        width="30"
+      />
+      <h1>
+        PokeNext
+      </h1>
+    </div>
+    <ul
+      class="link_itens"
+    >
+      <li>
+        <a
+          href="/"
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          href="/about"
+        >
+          Sobre
+        </a>
+      </li>
+    </ul>
+  </nav>
+  <main
+    class="main-conteiner"
+  >
+    <h1>
+      Children
+    </h1>
+  </main>
+  <footer
+    class="footer"
+  >
+    <p>
+      <span>
+        PokeNext
+      </span>
+       © 2022
+    </p>
+  </footer>
+</div>
+`;
